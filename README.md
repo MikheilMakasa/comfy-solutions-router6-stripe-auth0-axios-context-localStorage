@@ -1,3 +1,12 @@
+# You need to add env vars to make it work
+.env vars
+REACT_APP_AUTH_DOMAIN=
+REACT_APP_CLIENT_ID=
+REACT_APP_STRIPE_PUBLIC_KEY=
+REACT_APP_STRIPE_SECRET_KEY=
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
